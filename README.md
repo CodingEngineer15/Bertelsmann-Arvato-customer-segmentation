@@ -30,3 +30,5 @@ The following steps have been performed for this project
 In order to install the python packages used for this project run the following command within the terminal and have jupyter notebook installed:
 
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+
+For tge complementary blog post click <a href=https://medium.com/p/447d1d14741f/edit>here</a>
